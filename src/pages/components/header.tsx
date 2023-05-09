@@ -2,7 +2,7 @@ const Header = () => {
   return (
     <header className="flex items-center justify-between py-4 px-8">
       <div className="w-1/3">
-        <a className="text-2xl text-text hover:text-gray-600" href="/">
+        <a className="text-lg text-text hover:text-gray-600" href="/">
           Home
         </a>
       </div>

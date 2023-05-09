@@ -4,5 +4,8 @@ const FrontPage = () => {
 
   return (
     <Header></Header>
+    
   )
 }
+
+export default FrontPage;
