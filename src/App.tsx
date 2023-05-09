@@ -1,9 +1,9 @@
-import Header from './pages/components/header'
+import FrontPage from './pages/front_page/front_page';
 import './App.css';
 
 function App() {
   return (
-  <Header></Header>
+  <FrontPage/>
     )
 }
 
